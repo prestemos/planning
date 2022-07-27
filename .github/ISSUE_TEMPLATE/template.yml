@@ -1,9 +1,6 @@
-name: "Bug report"
-description: "test"
+name: "Plantilla de Issues"
+description: "Esta Plantilla sirve para dar más contexto sobre los issues generados"
 body:
-- type: markdown
-  attributes:
-    value: "Bugs are the worst!"
 - type: textarea
   attributes:
-    label: "What's wrong?"
+    label: "Alcance"
