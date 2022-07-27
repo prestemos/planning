@@ -5,15 +5,15 @@ body:
   attributes:
     label: "Alcance"
 - type: textarea
- attributes:
-   label: "Objetivo"
+  attributes:
+    label: "Objetivo"
 - type: textarea
- attributes:
-   label: "Stakeholders"
+  attributes:
+    label: "Stakeholders"
 - type: textarea
- attributes:
-   label: "Definition of Done"
+  attributes:
+    label: "Definition of Done"
 - type: textarea
- attributes:
-   label: "Links de ayuda"
+  attributes:
+    label: "Links de ayuda"
     
