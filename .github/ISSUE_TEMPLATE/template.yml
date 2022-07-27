@@ -4,3 +4,16 @@ body:
 - type: textarea
   attributes:
     label: "Alcance"
+ - type: textarea
+  attributes:
+    label: "Objetivo"
+ - type: textarea
+  attributes:
+    label: "Stakeholders"
+ - type: textarea
+  attributes:
+    label: "Definition of Done"
+ - type: textarea
+  attributes:
+    label: "Links de ayuda"
+    
