@@ -3,10 +3,10 @@ description: "Esta Plantilla sirve para dar más contexto sobre los issues gener
 body:
 - type: textarea
   attributes:
-    label: "Alcance"
+    label: "Objetivo"
 - type: textarea
   attributes:
-    label: "Objetivo"
+    label: "Alcance"
 - type: textarea
   attributes:
     label: "Stakeholders"
