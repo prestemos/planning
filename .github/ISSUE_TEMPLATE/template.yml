@@ -3,6 +3,9 @@ description: "Esta Plantilla sirve para dar más contexto sobre los issues gener
 body:
 - type: textarea
   attributes:
+    label: "Problema a resolver"
+- type: textarea
+  attributes:
     label: "Objetivo"
 - type: textarea
   attributes:
